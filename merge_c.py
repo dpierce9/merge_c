@@ -1,3 +1,3 @@
-import pandas as pd 
+import numpy as np
 
-print 'this is a file'
+print 'all cretans are liars'
